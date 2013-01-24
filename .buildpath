@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path="Config/Migration"/>
+	<buildpathentry kind="src" path="Config/Schema"/>
+	<buildpathentry kind="src" path="Controller"/>
+	<buildpathentry kind="src" path="Model"/>
+	<buildpathentry kind="src" path="Test/Case"/>
+	<buildpathentry kind="src" path="Test/Fixture"/>
+	<buildpathentry kind="src" path="View/Helper"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+</buildpath>
